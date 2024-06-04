@@ -3,6 +3,7 @@ package main
 func main() {
 	// Linked List
 	// LL()
-	GoStack()
+	//	GoStack()
 	// 	GoQueue()
+    GoBinarySearchTree()
 }
